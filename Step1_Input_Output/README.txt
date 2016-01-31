@@ -3,8 +3,9 @@
 1.) Flash Standarda Firmata to the Arduino using the Arduino IDE (already done unless reflashed)
 2.) LED shortest leg to GND,long leg to pin 13
 
-#Software Setup
-1.)  node button_led.js
+# Software Setup
+
+1.) Run command: node button_led.js
 2.) Visit localhost:3000 in the browser
 3.) Click the big button to start/stop your LED
 
