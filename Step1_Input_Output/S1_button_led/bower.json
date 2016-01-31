@@ -1,0 +1,21 @@
+{
+  "name": "bower install jquery",
+  "description": "",
+  "main": "toggleLED.js",
+  "authors": [
+    "stefania11 <druga.stefania@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/hackidemia/nodebots_nyc",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.0"
+  }
+}
