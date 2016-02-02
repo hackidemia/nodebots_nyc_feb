@@ -2,7 +2,7 @@
 
 ## Installation
 1. Clone this project from github
-2. In your terminal, go to the S1_button_led directory
+2. In your terminal, go to the **S1_button_led** directory
 3. Run `npm install`
 4. Run `bower install`
 
@@ -11,8 +11,8 @@
 2. LED shortest leg to GND, long leg to pin 13
 
 ## Software
-1. From the S1_button_led directory, run `node button_led.js`
-2. Visit localhost:3000 in the browser
+1. From the **S1_button_led** directory, run `node button_led.js`
+2. Visit [localhost:3000](http://localhost:3000) in the browser
 3. Click the big button to start/stop your LED
 
 # TROUBLESHOOTING
