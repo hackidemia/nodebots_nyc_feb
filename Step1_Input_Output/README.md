@@ -1,3 +1,10 @@
+# Installation
+1.) Clone this project from github
+2.) In your terminal, go to the S1_button_led directory
+3.) Run `npm install`
+4.) Run `bower install`
+
+
 # Board Setup
 
 1.) Flash Standarda Firmata to the Arduino using the Arduino IDE (already done unless reflashed)
