@@ -8,7 +8,7 @@ var app = express(),
 
 board.on("ready", function() {
   // Create an Led on pin 13
-  led = new j5.Led(7);
+  led = new j5.Led(13);
   console.log('ready');
 });
 
