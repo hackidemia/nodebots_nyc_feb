@@ -12,7 +12,7 @@
 
 ## Software
 1. From the **S1_button_led** directory, run `node button_led.js`
-2. Visit [localhost:3000](http://localhost:3000) in the browser
+2. Visit <a href="http://localhost:3000" target="_blank">localhost:3000</a> in the browser
 3. Click the big button to start/stop your LED
 
 # TROUBLESHOOTING
