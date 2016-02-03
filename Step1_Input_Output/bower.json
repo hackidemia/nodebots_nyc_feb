@@ -1,0 +1,21 @@
+{
+  "name": "Step1_Input_Output",
+  "homepage": "https://github.com/hackidemia/nodebots_nyc_feb",
+  "authors": [
+    "Tiffany W <tiffany.wang777@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.0"
+  }
+}
