@@ -1,4 +1,4 @@
-In this challenge, you will use a sensor of your choice to gather some data. In the example, we use a simple sensor or 'switch' but you can use anything! Some examples are force, voltage, touch, humidity, temperature, or sound.
+In this challenge, you will use a sensor of your choice to gather some data. In the example, we use a simple sensor or 'switch' but you can use anything! Some examples are light, touch, temperature, or vibration.
 
 Challenge 1: Have your script log your data every half second to the console. For a hint, see slide number X.
 Challenge 2: Send the data to your front end and have it log to the screen! You will have to refresh to see the new data.
