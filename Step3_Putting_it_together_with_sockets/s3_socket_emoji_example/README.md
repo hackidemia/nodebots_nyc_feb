@@ -6,7 +6,8 @@ This is an example of a fun thing you can do with sensors and sockets! The 'sens
 # Sample Board Setup
 
 1.) Flash Standard Firmata to the Arduino using the Arduino IDE (already done unless reflashed)
-2.) Tiff please put setup here!
+
+![setup](img.png?raw=true "setup")
 
 # Software Setup
 
