@@ -12,15 +12,17 @@ var swtch;
 var led;
 var state;
 
-app.get('/', function (req, res) {
-  res.render('index', state); //you would send state, but as an object
-});
+//This code is only used if you want to send information to the browser
+// app.get('/', function (req, res) {
+//   res.render('index', state); //you would send state, but as an object
+// });  
 
-app.listen(3000, function () {
-  console.log('Example app listening on port 3000!');
-});
+// app.listen(3000, function () {
+//   console.log('Example app listening on port 3000!');
+// });
 
 board.on("ready", function() {
+
   //SAMPLE CODE - Add your own below!
   // led = new five.Led(13);
   // swtch = new five.Switch(8);
