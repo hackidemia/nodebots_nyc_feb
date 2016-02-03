@@ -1,3 +1,10 @@
+#Objectives
+In this first challenge, you start off with a button in an html page and when clicked, your LED should toggle on and off. You'll learn the basic setup of the Arduino and how to create your first circuit. Lighting up and LED is considered the 'Hello World' program of the hardware world.
+
+Challenge 1: Hook up your LED to the Arduino so that when you click the button inside the example, the LED will toggle on and off.
+Challenge 2: Add a second LED that also toggles when you press the button. Now have the LEDs alternate. When one is on, the other is off.
+Challenge 3: Play around with different lighting effects. Have your button toggle fading in, fading out, or twinkling!
+
 #Setup
 
 ## Installation
