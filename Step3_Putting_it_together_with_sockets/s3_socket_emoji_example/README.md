@@ -7,7 +7,7 @@ This is an example of a fun thing you can do with sensors and sockets! The 'sens
 
 1.) Flash Standard Firmata to the Arduino using the Arduino IDE (already done unless reflashed)
 
-![setup](img.png?raw=true "setup")
+![setup](setup.png?raw=true "setup")
 
 # Software Setup
 
